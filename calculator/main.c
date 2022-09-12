@@ -10,7 +10,7 @@ int main() {
     // scanf("%f", &first);
     // printf("Kérlek add meg a második számot: ");
     // scanf("%f", &second);
-
+    //
     // printf("Milyen műveletet szeretnél végezni a két számmal? (+ - / *): ");
     // scanf(" %c", &symbol);
     fgets(calc, 10, stdin);
